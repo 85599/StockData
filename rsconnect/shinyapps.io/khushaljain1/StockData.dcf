@@ -1,0 +1,12 @@
+name: StockData
+title: StockData
+username:
+account: khushaljain1
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3606108
+bundleId: 4200055
+url: https://khushaljain1.shinyapps.io/StockData/
+when: 1612862738.23291
+asMultiple: FALSE
+asStatic: FALSE
