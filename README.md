@@ -1,6 +1,8 @@
 # StockData
 Shiny R App - Stock Data Analysis
 
+[Live Status](https://khushaljain1.shinyapps.io/StockData/)
+
 This Shiny App will show you the Historical Stock data & Chart using R quantmod getSymbol function.
 
 Enter the Valid Stock Symbol in text box to extract the Historical data & chart. Adjust the last months using slider & output data to show using numeric input.
